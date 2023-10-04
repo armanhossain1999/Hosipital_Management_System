@@ -1,0 +1,46 @@
+﻿@model Hospital_Management_System.ViewModels.RegisterModel
+@{
+    ViewBag.Title = "Register";
+}
+
+<div class="d-flex justify-content-center">
+    <div class="row " style="width:500px; height:320px; border:solid">
+        <div class="col-lg-12">
+            <div class="card-body p-md-3 mx-md-4">
+                <div class="row">
+                    <h3>Registation</h3>
+                    @using (Html.BeginForm())
+                    {
+                        @Html.ValidationSummary()
+                        <div class="form-group row mb-1">
+                            <div class="col-12">
+                                @Html.TextBoxFor(x => x.UserName, new { @class = "form-control", placeholder = "username..." })
+                                @Html.ValidationMessageFor(x => x.UserName, "", new { @class = "text-danger" })
+                            </div>
+                        </div>
+                        <div class="form-group row mb-1">
+                            <div class="col-12">
+                                @Html.PasswordFor(x => x.Password, new { @class = "form-control", placeholder = "password..." })
+                                @Html.ValidationMessageFor(x => x.Password, "", new { @class = "text-danger" })
+                            </div>
+                        </div>
+                        <div class="form-group row mb-1">
+                            <div class="col-12">
+                                @Html.PasswordFor(x => x.ConfirmPassword, new { @class = "form-control", placeholder = "password..." })
+                                @Html.ValidationMessageFor(x => x.ConfirmPassword, "", new { @class = "text-danger" })
+                            </div>
+                        </div>
+                        <div class="form-group row">
+                            <div class="col-12">
+                                <div class="d-flex justify-content-between">
+                                    <a href="/Account/login">Login</a>
+                                    <button type="submit" class="btn btn-primary">Registation</button>
+                                </div>
+                            </div>
+                        </div>
+                    }
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,74 @@
+﻿@model Hospital_Management_System.ViewModels.PatientInputModel
+
+<input type="hidden" id="server-task" value="@ViewBag.Act" />
+
+<div class="form-group row mb-1">
+    @Html.LabelFor(x => x.PatientName, new { @class = "col-form-label col-form-label-sm col-2" })
+    <div class="col-6">
+        @Html.TextBoxFor(x => x.PatientName, new { @class = "form-control form-control-sm" })
+        @Html.ValidationMessageFor(x => x.PatientName, "", new { @class = "text-danger", style = "font-size:x-small" })
+    </div>
+</div>
+<div class="form-group row mb-1">
+    @Html.LabelFor(x => x.AdmissionDate, new { @class = "col-form-label col-form-label-sm col-2" })
+    <div class="col-6">
+        @Html.TextBoxFor(x => x.AdmissionDate, new { @class = "form-control form-control-sm est", type = "date" })
+        @Html.ValidationMessageFor(x => x.AdmissionDate, "", new { @class = "text-danger", style = "font-size:x-small" })
+    </div>
+</div>
+<div class="form-group row mb-1">
+    @Html.LabelFor(x => x.Mobile, new { @class = "col-form-label col-form-label-sm col-2" })
+    <div class="col-6">
+        @Html.TextBoxFor(x => x.Mobile, new { @class = "form-select form-select-sm" })
+        @Html.ValidationMessageFor(x => x.Mobile, "", new { @class = "text-danger", style = "font-size:x-small" })
+    </div>
+</div>
+<div class="form-group row mb-1">
+    @Html.LabelFor(x => x.Gender, new { @class = "col-form-label col-form-label-sm col-2" })
+    <div class="col-6">
+        @Html.EnumDropDownListFor(x => x.Gender, new { @class = "form-control form-control-sm" })
+        @Html.ValidationMessageFor(x => x.Gender, "", new { @class = "text-danger", style = "font-size:x-small" })
+    </div>
+</div>
+<div class="form-group row mb-1">
+    @Html.LabelFor(x => x.Picture, new { @class = "col-form-label col-form-label-sm col-2" })
+    <div class="col-6">
+        @Html.TextBoxFor(x => x.Picture, new { @class = "form-control form-control-sm", type = "file" })
+        @Html.ValidationMessageFor(x => x.Picture, "", new { @class = "text-danger", style = "font-size:x-small" })
+    </div>
+</div>
+<div class="col-12">
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>Doctor Name</th>
+                <th>Appointment Date</th>
+                <th>
+                    <button type="submit" class="btn btn-success btn-sm add" name="act" value="add" formnovalidate><i class="bi bi-plus"></i></button>
+                </th>
+            </tr>
+        </thead>
+        <tbody>
+            @for (var i = 0; i < Model.Appointments.Count; i++)
+            {
+                <tr>
+                    <td>
+                        @Html.TextBoxFor(x => Model.Appointments[i].DoctorName, new { @class = "form-control" })
+                        @Html.ValidationMessageFor(x => Model.Appointments[i].DoctorName, "", new { @class = "text-danger" })
+
+                    </td>
+                    <td>
+                        @Html.TextBoxFor(x => Model.Appointments[i].AppointmentDate, new { @class = "form-control debut", type="date" })
+                        @Html.ValidationMessageFor(x => Model.Appointments[i].AppointmentDate, "", new { @class = "text-danger" })
+                    </td>
+
+                    <th>
+                        <button type="submit" class="btn btn-danger btn-sm" name="act" value="remove_@i" formnovalidate><i class="bi bi-trash"></i></button>
+                    </th>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
+

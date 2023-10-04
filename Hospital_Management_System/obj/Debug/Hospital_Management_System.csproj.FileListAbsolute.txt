@@ -1,0 +1,1205 @@
+E:\1273094\Module-6 (MVC)\final Project\Project\Hospital_Management_Systems\Hospital_Management_System\bin\Hospital_Management_System.dll.config
+E:\1273094\Module-6 (MVC)\final Project\Project\Hospital_Management_Systems\Hospital_Management_System\bin\Hospital_Management_System.dll
+E:\1273094\Module-6 (MVC)\final Project\Project\Hospital_Management_Systems\Hospital_Management_System\bin\Hospital_Management_System.pdb
+E:\1273094\Module-6 (MVC)\final Project\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\csc.exe
+E:\1273094\Module-6 (MVC)\final Project\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\csc.exe.config
+E:\1273094\Module-6 (MVC)\final Project\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\csc.rsp
+E:\1273094\Module-6 (MVC)\final Project\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\csi.exe
+E:\1273094\Module-6 (MVC)\final Project\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\csi.exe.config
+E:\1273094\Module-6 (MVC)\final Project\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\csi.rsp
+E:\1273094\Module-6 (MVC)\final Project\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\1273094\Module-6 (MVC)\final Project\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\1273094\Module-6 (MVC)\final Project\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\1273094\Module-6 (MVC)\final Project\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\1273094\Module-6 (MVC)\final Project\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\1273094\Module-6 (MVC)\final Project\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\1273094\Module-6 (MVC)\final Project\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\1273094\Module-6 (MVC)\final Project\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\1273094\Module-6 (MVC)\final Project\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\1273094\Module-6 (MVC)\final Project\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.Managed.Core.targets
+E:\1273094\Module-6 (MVC)\final Project\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\1273094\Module-6 (MVC)\final Project\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\1273094\Module-6 (MVC)\final Project\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.AppContext.dll
+E:\1273094\Module-6 (MVC)\final Project\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.Collections.Immutable.dll
+E:\1273094\Module-6 (MVC)\final Project\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.Console.dll
+E:\1273094\Module-6 (MVC)\final Project\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\1273094\Module-6 (MVC)\final Project\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\1273094\Module-6 (MVC)\final Project\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\1273094\Module-6 (MVC)\final Project\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.Globalization.Calendars.dll
+E:\1273094\Module-6 (MVC)\final Project\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.IO.Compression.dll
+E:\1273094\Module-6 (MVC)\final Project\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\1273094\Module-6 (MVC)\final Project\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.IO.FileSystem.dll
+E:\1273094\Module-6 (MVC)\final Project\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\1273094\Module-6 (MVC)\final Project\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.Net.Http.dll
+E:\1273094\Module-6 (MVC)\final Project\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.Net.Sockets.dll
+E:\1273094\Module-6 (MVC)\final Project\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.Reflection.Metadata.dll
+E:\1273094\Module-6 (MVC)\final Project\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\1273094\Module-6 (MVC)\final Project\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\1273094\Module-6 (MVC)\final Project\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\1273094\Module-6 (MVC)\final Project\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\1273094\Module-6 (MVC)\final Project\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\1273094\Module-6 (MVC)\final Project\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\1273094\Module-6 (MVC)\final Project\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\1273094\Module-6 (MVC)\final Project\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.ValueTuple.dll
+E:\1273094\Module-6 (MVC)\final Project\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\1273094\Module-6 (MVC)\final Project\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.Xml.XmlDocument.dll
+E:\1273094\Module-6 (MVC)\final Project\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.Xml.XPath.dll
+E:\1273094\Module-6 (MVC)\final Project\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\1273094\Module-6 (MVC)\final Project\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\vbc.exe
+E:\1273094\Module-6 (MVC)\final Project\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\vbc.exe.config
+E:\1273094\Module-6 (MVC)\final Project\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\vbc.rsp
+E:\1273094\Module-6 (MVC)\final Project\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\VBCSCompiler.exe
+E:\1273094\Module-6 (MVC)\final Project\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\VBCSCompiler.exe.config
+E:\1273094\Module-6 (MVC)\final Project\Project\Hospital_Management_Systems\Hospital_Management_System\bin\EntityFramework.dll
+E:\1273094\Module-6 (MVC)\final Project\Project\Hospital_Management_Systems\Hospital_Management_System\bin\EntityFramework.SqlServer.dll
+E:\1273094\Module-6 (MVC)\final Project\Project\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\1273094\Module-6 (MVC)\final Project\Project\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.Web.Infrastructure.dll
+E:\1273094\Module-6 (MVC)\final Project\Project\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Helpers.dll
+E:\1273094\Module-6 (MVC)\final Project\Project\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Mvc.dll
+E:\1273094\Module-6 (MVC)\final Project\Project\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Razor.dll
+E:\1273094\Module-6 (MVC)\final Project\Project\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Webpages.Deployment.dll
+E:\1273094\Module-6 (MVC)\final Project\Project\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Webpages.dll
+E:\1273094\Module-6 (MVC)\final Project\Project\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Webpages.Razor.dll
+E:\1273094\Module-6 (MVC)\final Project\Project\Hospital_Management_Systems\Hospital_Management_System\bin\EntityFramework.xml
+E:\1273094\Module-6 (MVC)\final Project\Project\Hospital_Management_Systems\Hospital_Management_System\bin\EntityFramework.SqlServer.xml
+E:\1273094\Module-6 (MVC)\final Project\Project\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Razor.xml
+E:\1273094\Module-6 (MVC)\final Project\Project\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Webpages.xml
+E:\1273094\Module-6 (MVC)\final Project\Project\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Webpages.Deployment.xml
+E:\1273094\Module-6 (MVC)\final Project\Project\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Webpages.Razor.xml
+E:\1273094\Module-6 (MVC)\final Project\Project\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Helpers.xml
+E:\1273094\Module-6 (MVC)\final Project\Project\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Mvc.xml
+E:\1273094\Module-6 (MVC)\final Project\Project\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\1273094\Module-6 (MVC)\final Project\Project\Hospital_Management_Systems\Hospital_Management_System\obj\Debug\Hospital_Management_System.csproj.AssemblyReference.cache
+E:\1273094\Module-6 (MVC)\final Project\Project\Hospital_Management_Systems\Hospital_Management_System\obj\Debug\Hospital_Management_System.csproj.CoreCompileInputs.cache
+E:\1273094\Module-6 (MVC)\final Project\Project\Hospital_Management_Systems\Hospital_Management_System\obj\Debug\Hospital_Management_System.csproj.CopyComplete
+E:\1273094\Module-6 (MVC)\final Project\Project\Hospital_Management_Systems\Hospital_Management_System\obj\Debug\Hospital_Management_System.dll
+E:\1273094\Module-6 (MVC)\final Project\Project\Hospital_Management_Systems\Hospital_Management_System\obj\Debug\Hospital_Management_System.pdb
+E:\1273094\Module-6 (MVC)\final Project\Project\Hospital_Management_Systems\Hospital_Management_System\bin\System.Text.Encodings.Web.dll
+E:\1273094\Module-6 (MVC)\final Project\Project\Hospital_Management_Systems\Hospital_Management_System\bin\X.PagedList.dll
+E:\1273094\Module-6 (MVC)\final Project\Project\Hospital_Management_Systems\Hospital_Management_System\bin\X.PagedList.Mvc.dll
+E:\1273094\Module-6 (MVC)\final Project\Project\Hospital_Management_Systems\Hospital_Management_System\bin\X.PagedList.Web.Common.dll
+E:\1273094\Module-6 (MVC)\final Project\Project\Hospital_Management_Systems\Hospital_Management_System\bin\System.Text.Encodings.Web.xml
+G:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\Hospital_Management_System.dll.config
+G:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\Hospital_Management_System.dll
+G:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\Hospital_Management_System.pdb
+G:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\csc.exe
+G:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\csc.exe.config
+G:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\csc.rsp
+G:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\csi.exe
+G:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\csi.exe.config
+G:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\csi.rsp
+G:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.Managed.Core.targets
+G:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.Win32.Primitives.dll
+G:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.AppContext.dll
+G:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.Collections.Immutable.dll
+G:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.Console.dll
+G:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+G:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.Globalization.Calendars.dll
+G:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.IO.Compression.dll
+G:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.IO.Compression.ZipFile.dll
+G:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.IO.FileSystem.dll
+G:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.Net.Http.dll
+G:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.Net.Sockets.dll
+G:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.Reflection.Metadata.dll
+G:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+G:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.Threading.Tasks.Extensions.dll
+G:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.ValueTuple.dll
+G:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.Xml.XmlDocument.dll
+G:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.Xml.XPath.dll
+G:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\vbc.exe
+G:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\vbc.exe.config
+G:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\vbc.rsp
+G:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\VBCSCompiler.exe
+G:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\VBCSCompiler.exe.config
+G:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\EntityFramework.dll
+G:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\EntityFramework.SqlServer.dll
+G:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.Web.Infrastructure.dll
+G:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\System.Text.Encodings.Web.dll
+G:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Helpers.dll
+G:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Mvc.dll
+G:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Razor.dll
+G:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Webpages.Deployment.dll
+G:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Webpages.dll
+G:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Webpages.Razor.dll
+G:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\X.PagedList.dll
+G:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\X.PagedList.Mvc.dll
+G:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\X.PagedList.Web.Common.dll
+G:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\EntityFramework.xml
+G:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\EntityFramework.SqlServer.xml
+G:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\System.Text.Encodings.Web.xml
+G:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Razor.xml
+G:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Webpages.xml
+G:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Webpages.Deployment.xml
+G:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Webpages.Razor.xml
+G:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Helpers.xml
+G:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Mvc.xml
+G:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\Project\Hospital_Management_Systems\Hospital_Management_System\obj\Debug\Hospital_Management_System.csproj.AssemblyReference.cache
+G:\Project\Hospital_Management_Systems\Hospital_Management_System\obj\Debug\Hospital_Management_System.csproj.CoreCompileInputs.cache
+G:\Project\Hospital_Management_Systems\Hospital_Management_System\obj\Debug\Hospital_Management_System.csproj.CopyComplete
+G:\Project\Hospital_Management_Systems\Hospital_Management_System\obj\Debug\Hospital_Management_System.dll
+G:\Project\Hospital_Management_Systems\Hospital_Management_System\obj\Debug\Hospital_Management_System.pdb
+C:\Users\Arman Hossain\Desktop\New folder\Project\Hospital_Management_Systems\Hospital_Management_System\bin\Hospital_Management_System.dll.config
+C:\Users\Arman Hossain\Desktop\New folder\Project\Hospital_Management_Systems\Hospital_Management_System\bin\Hospital_Management_System.dll
+C:\Users\Arman Hossain\Desktop\New folder\Project\Hospital_Management_Systems\Hospital_Management_System\bin\Hospital_Management_System.pdb
+C:\Users\Arman Hossain\Desktop\New folder\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\csc.exe
+C:\Users\Arman Hossain\Desktop\New folder\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\csc.exe.config
+C:\Users\Arman Hossain\Desktop\New folder\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\csc.rsp
+C:\Users\Arman Hossain\Desktop\New folder\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\csi.exe
+C:\Users\Arman Hossain\Desktop\New folder\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\csi.exe.config
+C:\Users\Arman Hossain\Desktop\New folder\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\csi.rsp
+C:\Users\Arman Hossain\Desktop\New folder\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Arman Hossain\Desktop\New folder\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Arman Hossain\Desktop\New folder\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Arman Hossain\Desktop\New folder\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Arman Hossain\Desktop\New folder\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Arman Hossain\Desktop\New folder\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Arman Hossain\Desktop\New folder\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Arman Hossain\Desktop\New folder\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Arman Hossain\Desktop\New folder\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Arman Hossain\Desktop\New folder\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Arman Hossain\Desktop\New folder\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Arman Hossain\Desktop\New folder\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Arman Hossain\Desktop\New folder\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Arman Hossain\Desktop\New folder\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Arman Hossain\Desktop\New folder\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Arman Hossain\Desktop\New folder\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\vbc.exe
+C:\Users\Arman Hossain\Desktop\New folder\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\vbc.exe.config
+C:\Users\Arman Hossain\Desktop\New folder\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\vbc.rsp
+C:\Users\Arman Hossain\Desktop\New folder\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\VBCSCompiler.exe
+C:\Users\Arman Hossain\Desktop\New folder\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Arman Hossain\Desktop\New folder\Project\Hospital_Management_Systems\Hospital_Management_System\bin\EntityFramework.dll
+C:\Users\Arman Hossain\Desktop\New folder\Project\Hospital_Management_Systems\Hospital_Management_System\bin\EntityFramework.SqlServer.dll
+C:\Users\Arman Hossain\Desktop\New folder\Project\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Arman Hossain\Desktop\New folder\Project\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Arman Hossain\Desktop\New folder\Project\Hospital_Management_Systems\Hospital_Management_System\bin\System.Text.Encodings.Web.dll
+C:\Users\Arman Hossain\Desktop\New folder\Project\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Helpers.dll
+C:\Users\Arman Hossain\Desktop\New folder\Project\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Mvc.dll
+C:\Users\Arman Hossain\Desktop\New folder\Project\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Razor.dll
+C:\Users\Arman Hossain\Desktop\New folder\Project\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Arman Hossain\Desktop\New folder\Project\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Webpages.dll
+C:\Users\Arman Hossain\Desktop\New folder\Project\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Webpages.Razor.dll
+C:\Users\Arman Hossain\Desktop\New folder\Project\Hospital_Management_Systems\Hospital_Management_System\bin\X.PagedList.dll
+C:\Users\Arman Hossain\Desktop\New folder\Project\Hospital_Management_Systems\Hospital_Management_System\bin\X.PagedList.Mvc.dll
+C:\Users\Arman Hossain\Desktop\New folder\Project\Hospital_Management_Systems\Hospital_Management_System\bin\X.PagedList.Web.Common.dll
+C:\Users\Arman Hossain\Desktop\New folder\Project\Hospital_Management_Systems\Hospital_Management_System\bin\EntityFramework.xml
+C:\Users\Arman Hossain\Desktop\New folder\Project\Hospital_Management_Systems\Hospital_Management_System\bin\EntityFramework.SqlServer.xml
+C:\Users\Arman Hossain\Desktop\New folder\Project\Hospital_Management_Systems\Hospital_Management_System\bin\System.Text.Encodings.Web.xml
+C:\Users\Arman Hossain\Desktop\New folder\Project\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Razor.xml
+C:\Users\Arman Hossain\Desktop\New folder\Project\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Webpages.xml
+C:\Users\Arman Hossain\Desktop\New folder\Project\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Arman Hossain\Desktop\New folder\Project\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Webpages.Razor.xml
+C:\Users\Arman Hossain\Desktop\New folder\Project\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Helpers.xml
+C:\Users\Arman Hossain\Desktop\New folder\Project\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Mvc.xml
+C:\Users\Arman Hossain\Desktop\New folder\Project\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Arman Hossain\Desktop\New folder\Project\Hospital_Management_Systems\Hospital_Management_System\obj\Debug\Hospital_Management_System.csproj.AssemblyReference.cache
+C:\Users\Arman Hossain\Desktop\New folder\Project\Hospital_Management_Systems\Hospital_Management_System\obj\Debug\Hospital_Management_System.csproj.CoreCompileInputs.cache
+C:\Users\Arman Hossain\Desktop\New folder\Project\Hospital_Management_Systems\Hospital_Management_System\obj\Debug\Hospital_Management_System.csproj.CopyComplete
+C:\Users\Arman Hossain\Desktop\New folder\Project\Hospital_Management_Systems\Hospital_Management_System\obj\Debug\Hospital_Management_System.dll
+C:\Users\Arman Hossain\Desktop\New folder\Project\Hospital_Management_Systems\Hospital_Management_System\obj\Debug\Hospital_Management_System.pdb
+C:\Users\Arman Hossain\Desktop\New folder\Project\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Arman Hossain\Desktop\New folder\Project\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Arman Hossain\Desktop\New folder\Project\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.Owin.dll
+C:\Users\Arman Hossain\Desktop\New folder\Project\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Arman Hossain\Desktop\New folder\Project\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Arman Hossain\Desktop\New folder\Project\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.Owin.Security.dll
+C:\Users\Arman Hossain\Desktop\New folder\Project\Hospital_Management_Systems\Hospital_Management_System\bin\Owin.dll
+C:\Users\Arman Hossain\Desktop\New folder\Project\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Arman Hossain\Desktop\New folder\Project\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Arman Hossain\Desktop\New folder\Project\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.Owin.xml
+C:\Users\Arman Hossain\Desktop\New folder\Project\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Arman Hossain\Desktop\New folder\Project\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.Owin.Security.xml
+C:\Users\Arman Hossain\Desktop\New folder\Project\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.Owin.Security.Cookies.xml
+H:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\Hospital_Management_System.dll.config
+H:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\Hospital_Management_System.dll
+H:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\Hospital_Management_System.pdb
+H:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\csc.exe
+H:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\csc.exe.config
+H:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\csc.rsp
+H:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\csi.exe
+H:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\csi.exe.config
+H:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\csi.rsp
+H:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.Managed.Core.targets
+H:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.Win32.Primitives.dll
+H:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.AppContext.dll
+H:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.Collections.Immutable.dll
+H:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.Console.dll
+H:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+H:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+H:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.Globalization.Calendars.dll
+H:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.IO.Compression.dll
+H:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.IO.Compression.ZipFile.dll
+H:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.IO.FileSystem.dll
+H:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.Net.Http.dll
+H:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.Net.Sockets.dll
+H:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.Reflection.Metadata.dll
+H:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+H:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+H:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.Security.Cryptography.Encoding.dll
+H:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.Security.Cryptography.Primitives.dll
+H:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+H:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.Text.Encoding.CodePages.dll
+H:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.Threading.Tasks.Extensions.dll
+H:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.ValueTuple.dll
+H:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.Xml.ReaderWriter.dll
+H:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.Xml.XmlDocument.dll
+H:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.Xml.XPath.dll
+H:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.Xml.XPath.XDocument.dll
+H:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\vbc.exe
+H:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\vbc.exe.config
+H:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\vbc.rsp
+H:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\VBCSCompiler.exe
+H:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\VBCSCompiler.exe.config
+H:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\EntityFramework.dll
+H:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\EntityFramework.SqlServer.dll
+H:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.AspNet.Identity.Core.dll
+H:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+H:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.Owin.dll
+H:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.Owin.Host.SystemWeb.dll
+H:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.Owin.Security.Cookies.dll
+H:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.Owin.Security.dll
+H:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.Web.Infrastructure.dll
+H:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\Owin.dll
+H:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\System.Text.Encodings.Web.dll
+H:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Helpers.dll
+H:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Mvc.dll
+H:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Razor.dll
+H:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Webpages.Deployment.dll
+H:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Webpages.dll
+H:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Webpages.Razor.dll
+H:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\X.PagedList.dll
+H:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\X.PagedList.Mvc.dll
+H:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\X.PagedList.Web.Common.dll
+H:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\EntityFramework.xml
+H:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\EntityFramework.SqlServer.xml
+H:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.AspNet.Identity.Core.xml
+H:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+H:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.Owin.xml
+H:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.Owin.Host.SystemWeb.xml
+H:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.Owin.Security.xml
+H:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.Owin.Security.Cookies.xml
+H:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\System.Text.Encodings.Web.xml
+H:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Razor.xml
+H:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Webpages.xml
+H:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Webpages.Deployment.xml
+H:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Webpages.Razor.xml
+H:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Helpers.xml
+H:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Mvc.xml
+H:\Project\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\Project\Hospital_Management_Systems\Hospital_Management_System\obj\Debug\Hospital_Management_System.csproj.AssemblyReference.cache
+H:\Project\Hospital_Management_Systems\Hospital_Management_System\obj\Debug\Hospital_Management_System.csproj.CoreCompileInputs.cache
+H:\Project\Hospital_Management_Systems\Hospital_Management_System\obj\Debug\Hospital_Management_System.csproj.CopyComplete
+H:\Project\Hospital_Management_Systems\Hospital_Management_System\obj\Debug\Hospital_Management_System.dll
+H:\Project\Hospital_Management_Systems\Hospital_Management_System\obj\Debug\Hospital_Management_System.pdb
+E:\1273094\Module-6 (MVC)\final Project\Project\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.AspNet.Identity.Core.dll
+E:\1273094\Module-6 (MVC)\final Project\Project\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\1273094\Module-6 (MVC)\final Project\Project\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.Owin.dll
+E:\1273094\Module-6 (MVC)\final Project\Project\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\1273094\Module-6 (MVC)\final Project\Project\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.Owin.Security.Cookies.dll
+E:\1273094\Module-6 (MVC)\final Project\Project\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.Owin.Security.dll
+E:\1273094\Module-6 (MVC)\final Project\Project\Hospital_Management_Systems\Hospital_Management_System\bin\Owin.dll
+E:\1273094\Module-6 (MVC)\final Project\Project\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.AspNet.Identity.Core.xml
+E:\1273094\Module-6 (MVC)\final Project\Project\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\1273094\Module-6 (MVC)\final Project\Project\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.Owin.xml
+E:\1273094\Module-6 (MVC)\final Project\Project\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\1273094\Module-6 (MVC)\final Project\Project\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.Owin.Security.xml
+E:\1273094\Module-6 (MVC)\final Project\Project\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\LAB104-10\Desktop\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\Hospital_Management_System.dll.config
+C:\Users\LAB104-10\Desktop\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\Hospital_Management_System.dll
+C:\Users\LAB104-10\Desktop\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\Hospital_Management_System.pdb
+C:\Users\LAB104-10\Desktop\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\csc.exe
+C:\Users\LAB104-10\Desktop\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\csc.exe.config
+C:\Users\LAB104-10\Desktop\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\csc.rsp
+C:\Users\LAB104-10\Desktop\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\csi.exe
+C:\Users\LAB104-10\Desktop\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\csi.exe.config
+C:\Users\LAB104-10\Desktop\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\csi.rsp
+C:\Users\LAB104-10\Desktop\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\LAB104-10\Desktop\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\LAB104-10\Desktop\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\LAB104-10\Desktop\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\LAB104-10\Desktop\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\LAB104-10\Desktop\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\LAB104-10\Desktop\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\LAB104-10\Desktop\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\LAB104-10\Desktop\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\LAB104-10\Desktop\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\LAB104-10\Desktop\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\LAB104-10\Desktop\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\LAB104-10\Desktop\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\LAB104-10\Desktop\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\LAB104-10\Desktop\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\LAB104-10\Desktop\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\vbc.exe
+C:\Users\LAB104-10\Desktop\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\vbc.exe.config
+C:\Users\LAB104-10\Desktop\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\vbc.rsp
+C:\Users\LAB104-10\Desktop\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\VBCSCompiler.exe
+C:\Users\LAB104-10\Desktop\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\LAB104-10\Desktop\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\EntityFramework.dll
+C:\Users\LAB104-10\Desktop\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\EntityFramework.SqlServer.dll
+C:\Users\LAB104-10\Desktop\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\LAB104-10\Desktop\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\LAB104-10\Desktop\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\LAB104-10\Desktop\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.Owin.dll
+C:\Users\LAB104-10\Desktop\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\LAB104-10\Desktop\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\LAB104-10\Desktop\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.Owin.Security.dll
+C:\Users\LAB104-10\Desktop\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\LAB104-10\Desktop\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\Owin.dll
+C:\Users\LAB104-10\Desktop\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\System.Text.Encodings.Web.dll
+C:\Users\LAB104-10\Desktop\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Helpers.dll
+C:\Users\LAB104-10\Desktop\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Mvc.dll
+C:\Users\LAB104-10\Desktop\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Razor.dll
+C:\Users\LAB104-10\Desktop\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Webpages.Deployment.dll
+C:\Users\LAB104-10\Desktop\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Webpages.dll
+C:\Users\LAB104-10\Desktop\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Webpages.Razor.dll
+C:\Users\LAB104-10\Desktop\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\X.PagedList.dll
+C:\Users\LAB104-10\Desktop\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\X.PagedList.Mvc.dll
+C:\Users\LAB104-10\Desktop\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\X.PagedList.Web.Common.dll
+C:\Users\LAB104-10\Desktop\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\EntityFramework.xml
+C:\Users\LAB104-10\Desktop\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\EntityFramework.SqlServer.xml
+C:\Users\LAB104-10\Desktop\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\LAB104-10\Desktop\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\LAB104-10\Desktop\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.Owin.xml
+C:\Users\LAB104-10\Desktop\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\LAB104-10\Desktop\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.Owin.Security.xml
+C:\Users\LAB104-10\Desktop\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\LAB104-10\Desktop\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\System.Text.Encodings.Web.xml
+C:\Users\LAB104-10\Desktop\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Razor.xml
+C:\Users\LAB104-10\Desktop\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Webpages.xml
+C:\Users\LAB104-10\Desktop\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Webpages.Deployment.xml
+C:\Users\LAB104-10\Desktop\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Webpages.Razor.xml
+C:\Users\LAB104-10\Desktop\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Helpers.xml
+C:\Users\LAB104-10\Desktop\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Mvc.xml
+C:\Users\LAB104-10\Desktop\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\LAB104-10\Desktop\New folder\Hospital_Management_Systems\Hospital_Management_System\obj\Debug\Hospital_Management_System.csproj.AssemblyReference.cache
+C:\Users\LAB104-10\Desktop\New folder\Hospital_Management_Systems\Hospital_Management_System\obj\Debug\Hospital_Management_System.csproj.CoreCompileInputs.cache
+C:\Users\LAB104-10\Desktop\New folder\Hospital_Management_Systems\Hospital_Management_System\obj\Debug\Hospital_Management_System.csproj.CopyComplete
+C:\Users\LAB104-10\Desktop\New folder\Hospital_Management_Systems\Hospital_Management_System\obj\Debug\Hospital_Management_System.dll
+C:\Users\LAB104-10\Desktop\New folder\Hospital_Management_Systems\Hospital_Management_System\obj\Debug\Hospital_Management_System.pdb
+C:\Users\LAB104-10\Desktop\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+C:\Users\LAB104-10\Desktop\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.Buffers.dll
+C:\Users\LAB104-10\Desktop\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.Memory.dll
+C:\Users\LAB104-10\Desktop\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\LAB104-10\Desktop\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\LAB104-10\Desktop\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\System.Buffers.dll
+C:\Users\LAB104-10\Desktop\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\System.Memory.dll
+C:\Users\LAB104-10\Desktop\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\System.Numerics.Vectors.dll
+C:\Users\LAB104-10\Desktop\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\LAB104-10\Desktop\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\System.Buffers.xml
+C:\Users\LAB104-10\Desktop\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\System.Memory.xml
+C:\Users\LAB104-10\Desktop\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\System.Numerics.Vectors.xml
+C:\Users\LAB104-10\Desktop\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\System.Runtime.CompilerServices.Unsafe.xml
+G:\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\Hospital_Management_System.dll.config
+G:\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\Hospital_Management_System.dll
+G:\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\Hospital_Management_System.pdb
+G:\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\csc.exe
+G:\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\csc.exe.config
+G:\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\csc.rsp
+G:\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\csi.exe
+G:\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\csi.exe.config
+G:\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\csi.rsp
+G:\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+G:\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.Managed.Core.targets
+G:\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.Buffers.dll
+G:\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.Collections.Immutable.dll
+G:\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.Memory.dll
+G:\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.Numerics.Vectors.dll
+G:\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.Reflection.Metadata.dll
+G:\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+G:\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.Threading.Tasks.Extensions.dll
+G:\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\vbc.exe
+G:\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\vbc.exe.config
+G:\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\vbc.rsp
+G:\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\VBCSCompiler.exe
+G:\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\VBCSCompiler.exe.config
+G:\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\EntityFramework.dll
+G:\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\EntityFramework.SqlServer.dll
+G:\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.AspNet.Identity.Core.dll
+G:\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.Owin.dll
+G:\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.Owin.Security.Cookies.dll
+G:\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.Owin.Security.dll
+G:\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.Web.Infrastructure.dll
+G:\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\Owin.dll
+G:\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\System.Buffers.dll
+G:\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\System.Memory.dll
+G:\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\System.Numerics.Vectors.dll
+G:\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\System.Runtime.CompilerServices.Unsafe.dll
+G:\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\System.Text.Encodings.Web.dll
+G:\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Helpers.dll
+G:\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Mvc.dll
+G:\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Razor.dll
+G:\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Webpages.Deployment.dll
+G:\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Webpages.dll
+G:\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Webpages.Razor.dll
+G:\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\X.PagedList.dll
+G:\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\X.PagedList.Mvc.dll
+G:\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\X.PagedList.Web.Common.dll
+G:\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\EntityFramework.xml
+G:\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\EntityFramework.SqlServer.xml
+G:\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.AspNet.Identity.Core.xml
+G:\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.Owin.xml
+G:\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.Owin.Security.xml
+G:\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.Owin.Security.Cookies.xml
+G:\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\System.Buffers.xml
+G:\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\System.Memory.xml
+G:\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\System.Numerics.Vectors.xml
+G:\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\System.Runtime.CompilerServices.Unsafe.xml
+G:\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\System.Text.Encodings.Web.xml
+G:\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Razor.xml
+G:\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Webpages.xml
+G:\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Webpages.Deployment.xml
+G:\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Webpages.Razor.xml
+G:\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Helpers.xml
+G:\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Mvc.xml
+G:\New folder\Hospital_Management_Systems\Hospital_Management_System\obj\Debug\Hospital_Management_System.csproj.AssemblyReference.cache
+G:\New folder\Hospital_Management_Systems\Hospital_Management_System\obj\Debug\Hospital_Management_System.csproj.CoreCompileInputs.cache
+G:\New folder\Hospital_Management_Systems\Hospital_Management_System\obj\Debug\Hospital_Management_System.csproj.CopyComplete
+G:\New folder\Hospital_Management_Systems\Hospital_Management_System\obj\Debug\Hospital_Management_System.dll
+G:\New folder\Hospital_Management_Systems\Hospital_Management_System\obj\Debug\Hospital_Management_System.pdb
+D:\Module 6\Final Project\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\Hospital_Management_System.dll.config
+D:\Module 6\Final Project\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\Hospital_Management_System.dll
+D:\Module 6\Final Project\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\Hospital_Management_System.pdb
+D:\Module 6\Final Project\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\csc.exe
+D:\Module 6\Final Project\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\csc.exe.config
+D:\Module 6\Final Project\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\csc.rsp
+D:\Module 6\Final Project\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\csi.exe
+D:\Module 6\Final Project\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\csi.exe.config
+D:\Module 6\Final Project\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\csi.rsp
+D:\Module 6\Final Project\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Module 6\Final Project\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Module 6\Final Project\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Module 6\Final Project\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Module 6\Final Project\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Module 6\Final Project\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Module 6\Final Project\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Module 6\Final Project\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Module 6\Final Project\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Module 6\Final Project\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+D:\Module 6\Final Project\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Module 6\Final Project\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Module 6\Final Project\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.Buffers.dll
+D:\Module 6\Final Project\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.Collections.Immutable.dll
+D:\Module 6\Final Project\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.Memory.dll
+D:\Module 6\Final Project\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.Numerics.Vectors.dll
+D:\Module 6\Final Project\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.Reflection.Metadata.dll
+D:\Module 6\Final Project\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+D:\Module 6\Final Project\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Module 6\Final Project\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Module 6\Final Project\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\vbc.exe
+D:\Module 6\Final Project\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\vbc.exe.config
+D:\Module 6\Final Project\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\vbc.rsp
+D:\Module 6\Final Project\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\VBCSCompiler.exe
+D:\Module 6\Final Project\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\VBCSCompiler.exe.config
+D:\Module 6\Final Project\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\EntityFramework.dll
+D:\Module 6\Final Project\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\EntityFramework.SqlServer.dll
+D:\Module 6\Final Project\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Module 6\Final Project\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Module 6\Final Project\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Module 6\Final Project\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.Owin.dll
+D:\Module 6\Final Project\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Module 6\Final Project\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Module 6\Final Project\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.Owin.Security.dll
+D:\Module 6\Final Project\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.Web.Infrastructure.dll
+D:\Module 6\Final Project\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\Owin.dll
+D:\Module 6\Final Project\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\System.Buffers.dll
+D:\Module 6\Final Project\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\System.Memory.dll
+D:\Module 6\Final Project\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\System.Numerics.Vectors.dll
+D:\Module 6\Final Project\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Module 6\Final Project\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\System.Text.Encodings.Web.dll
+D:\Module 6\Final Project\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Helpers.dll
+D:\Module 6\Final Project\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Mvc.dll
+D:\Module 6\Final Project\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Razor.dll
+D:\Module 6\Final Project\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Webpages.Deployment.dll
+D:\Module 6\Final Project\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Webpages.dll
+D:\Module 6\Final Project\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Webpages.Razor.dll
+D:\Module 6\Final Project\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\X.PagedList.dll
+D:\Module 6\Final Project\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\X.PagedList.Mvc.dll
+D:\Module 6\Final Project\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\X.PagedList.Web.Common.dll
+D:\Module 6\Final Project\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\EntityFramework.xml
+D:\Module 6\Final Project\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\EntityFramework.SqlServer.xml
+D:\Module 6\Final Project\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Module 6\Final Project\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Module 6\Final Project\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Module 6\Final Project\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.Owin.xml
+D:\Module 6\Final Project\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Module 6\Final Project\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.Owin.Security.xml
+D:\Module 6\Final Project\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Module 6\Final Project\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\System.Buffers.xml
+D:\Module 6\Final Project\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\System.Memory.xml
+D:\Module 6\Final Project\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\System.Numerics.Vectors.xml
+D:\Module 6\Final Project\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Module 6\Final Project\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\System.Text.Encodings.Web.xml
+D:\Module 6\Final Project\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Razor.xml
+D:\Module 6\Final Project\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Webpages.xml
+D:\Module 6\Final Project\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Webpages.Deployment.xml
+D:\Module 6\Final Project\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Webpages.Razor.xml
+D:\Module 6\Final Project\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Helpers.xml
+D:\Module 6\Final Project\New folder\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Mvc.xml
+D:\Module 6\Final Project\New folder\Hospital_Management_Systems\Hospital_Management_System\obj\Debug\Hospital_Management_System.csproj.AssemblyReference.cache
+D:\Module 6\Final Project\New folder\Hospital_Management_Systems\Hospital_Management_System\obj\Debug\Hospital_Management_System.csproj.CoreCompileInputs.cache
+D:\Module 6\Final Project\New folder\Hospital_Management_Systems\Hospital_Management_System\obj\Debug\Hospital_Management_System.csproj.CopyComplete
+D:\Module 6\Final Project\New folder\Hospital_Management_Systems\Hospital_Management_System\obj\Debug\Hospital_Management_System.dll
+D:\Module 6\Final Project\New folder\Hospital_Management_Systems\Hospital_Management_System\obj\Debug\Hospital_Management_System.pdb
+C:\Users\Arman Hossain\Desktop\New folder\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+C:\Users\Arman Hossain\Desktop\New folder\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.Buffers.dll
+C:\Users\Arman Hossain\Desktop\New folder\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.Memory.dll
+C:\Users\Arman Hossain\Desktop\New folder\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\Arman Hossain\Desktop\New folder\Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Arman Hossain\Desktop\New folder\Project\Hospital_Management_Systems\Hospital_Management_System\bin\System.Buffers.dll
+C:\Users\Arman Hossain\Desktop\New folder\Project\Hospital_Management_Systems\Hospital_Management_System\bin\System.Memory.dll
+C:\Users\Arman Hossain\Desktop\New folder\Project\Hospital_Management_Systems\Hospital_Management_System\bin\System.Numerics.Vectors.dll
+C:\Users\Arman Hossain\Desktop\New folder\Project\Hospital_Management_Systems\Hospital_Management_System\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Arman Hossain\Desktop\New folder\Project\Hospital_Management_Systems\Hospital_Management_System\bin\System.Buffers.xml
+C:\Users\Arman Hossain\Desktop\New folder\Project\Hospital_Management_Systems\Hospital_Management_System\bin\System.Memory.xml
+C:\Users\Arman Hossain\Desktop\New folder\Project\Hospital_Management_Systems\Hospital_Management_System\bin\System.Numerics.Vectors.xml
+C:\Users\Arman Hossain\Desktop\New folder\Project\Hospital_Management_Systems\Hospital_Management_System\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Module 6\Final Project\Project with Ajax\Hospital_Management_Systems\Hospital_Management_System\bin\Hospital_Management_System.dll.config
+D:\Module 6\Final Project\Project with Ajax\Hospital_Management_Systems\Hospital_Management_System\bin\Hospital_Management_System.dll
+D:\Module 6\Final Project\Project with Ajax\Hospital_Management_Systems\Hospital_Management_System\bin\Hospital_Management_System.pdb
+D:\Module 6\Final Project\Project with Ajax\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\csc.exe
+D:\Module 6\Final Project\Project with Ajax\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\csc.exe.config
+D:\Module 6\Final Project\Project with Ajax\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\csc.rsp
+D:\Module 6\Final Project\Project with Ajax\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\csi.exe
+D:\Module 6\Final Project\Project with Ajax\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\csi.exe.config
+D:\Module 6\Final Project\Project with Ajax\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\csi.rsp
+D:\Module 6\Final Project\Project with Ajax\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Module 6\Final Project\Project with Ajax\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Module 6\Final Project\Project with Ajax\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Module 6\Final Project\Project with Ajax\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Module 6\Final Project\Project with Ajax\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Module 6\Final Project\Project with Ajax\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Module 6\Final Project\Project with Ajax\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Module 6\Final Project\Project with Ajax\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Module 6\Final Project\Project with Ajax\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Module 6\Final Project\Project with Ajax\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+D:\Module 6\Final Project\Project with Ajax\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Module 6\Final Project\Project with Ajax\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Module 6\Final Project\Project with Ajax\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.Buffers.dll
+D:\Module 6\Final Project\Project with Ajax\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.Collections.Immutable.dll
+D:\Module 6\Final Project\Project with Ajax\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.Memory.dll
+D:\Module 6\Final Project\Project with Ajax\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.Numerics.Vectors.dll
+D:\Module 6\Final Project\Project with Ajax\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.Reflection.Metadata.dll
+D:\Module 6\Final Project\Project with Ajax\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+D:\Module 6\Final Project\Project with Ajax\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Module 6\Final Project\Project with Ajax\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Module 6\Final Project\Project with Ajax\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\vbc.exe
+D:\Module 6\Final Project\Project with Ajax\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\vbc.exe.config
+D:\Module 6\Final Project\Project with Ajax\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\vbc.rsp
+D:\Module 6\Final Project\Project with Ajax\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\VBCSCompiler.exe
+D:\Module 6\Final Project\Project with Ajax\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\VBCSCompiler.exe.config
+D:\Module 6\Final Project\Project with Ajax\Hospital_Management_Systems\Hospital_Management_System\bin\EntityFramework.dll
+D:\Module 6\Final Project\Project with Ajax\Hospital_Management_Systems\Hospital_Management_System\bin\EntityFramework.SqlServer.dll
+D:\Module 6\Final Project\Project with Ajax\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Module 6\Final Project\Project with Ajax\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Module 6\Final Project\Project with Ajax\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Module 6\Final Project\Project with Ajax\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.Owin.dll
+D:\Module 6\Final Project\Project with Ajax\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Module 6\Final Project\Project with Ajax\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Module 6\Final Project\Project with Ajax\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.Owin.Security.dll
+D:\Module 6\Final Project\Project with Ajax\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.Web.Infrastructure.dll
+D:\Module 6\Final Project\Project with Ajax\Hospital_Management_Systems\Hospital_Management_System\bin\Owin.dll
+D:\Module 6\Final Project\Project with Ajax\Hospital_Management_Systems\Hospital_Management_System\bin\System.Buffers.dll
+D:\Module 6\Final Project\Project with Ajax\Hospital_Management_Systems\Hospital_Management_System\bin\System.Memory.dll
+D:\Module 6\Final Project\Project with Ajax\Hospital_Management_Systems\Hospital_Management_System\bin\System.Numerics.Vectors.dll
+D:\Module 6\Final Project\Project with Ajax\Hospital_Management_Systems\Hospital_Management_System\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Module 6\Final Project\Project with Ajax\Hospital_Management_Systems\Hospital_Management_System\bin\System.Text.Encodings.Web.dll
+D:\Module 6\Final Project\Project with Ajax\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Helpers.dll
+D:\Module 6\Final Project\Project with Ajax\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Mvc.dll
+D:\Module 6\Final Project\Project with Ajax\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Razor.dll
+D:\Module 6\Final Project\Project with Ajax\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Webpages.Deployment.dll
+D:\Module 6\Final Project\Project with Ajax\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Webpages.dll
+D:\Module 6\Final Project\Project with Ajax\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Webpages.Razor.dll
+D:\Module 6\Final Project\Project with Ajax\Hospital_Management_Systems\Hospital_Management_System\bin\X.PagedList.dll
+D:\Module 6\Final Project\Project with Ajax\Hospital_Management_Systems\Hospital_Management_System\bin\X.PagedList.Mvc.dll
+D:\Module 6\Final Project\Project with Ajax\Hospital_Management_Systems\Hospital_Management_System\bin\X.PagedList.Web.Common.dll
+D:\Module 6\Final Project\Project with Ajax\Hospital_Management_Systems\Hospital_Management_System\bin\EntityFramework.xml
+D:\Module 6\Final Project\Project with Ajax\Hospital_Management_Systems\Hospital_Management_System\bin\EntityFramework.SqlServer.xml
+D:\Module 6\Final Project\Project with Ajax\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Module 6\Final Project\Project with Ajax\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Module 6\Final Project\Project with Ajax\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Module 6\Final Project\Project with Ajax\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.Owin.xml
+D:\Module 6\Final Project\Project with Ajax\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Module 6\Final Project\Project with Ajax\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.Owin.Security.xml
+D:\Module 6\Final Project\Project with Ajax\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Module 6\Final Project\Project with Ajax\Hospital_Management_Systems\Hospital_Management_System\bin\System.Buffers.xml
+D:\Module 6\Final Project\Project with Ajax\Hospital_Management_Systems\Hospital_Management_System\bin\System.Memory.xml
+D:\Module 6\Final Project\Project with Ajax\Hospital_Management_Systems\Hospital_Management_System\bin\System.Numerics.Vectors.xml
+D:\Module 6\Final Project\Project with Ajax\Hospital_Management_Systems\Hospital_Management_System\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Module 6\Final Project\Project with Ajax\Hospital_Management_Systems\Hospital_Management_System\bin\System.Text.Encodings.Web.xml
+D:\Module 6\Final Project\Project with Ajax\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Razor.xml
+D:\Module 6\Final Project\Project with Ajax\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Webpages.xml
+D:\Module 6\Final Project\Project with Ajax\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Webpages.Deployment.xml
+D:\Module 6\Final Project\Project with Ajax\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Webpages.Razor.xml
+D:\Module 6\Final Project\Project with Ajax\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Helpers.xml
+D:\Module 6\Final Project\Project with Ajax\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Mvc.xml
+D:\Module 6\Final Project\Project with Ajax\Hospital_Management_Systems\Hospital_Management_System\obj\Debug\Hospital_Management_System.csproj.AssemblyReference.cache
+D:\Module 6\Final Project\Project with Ajax\Hospital_Management_Systems\Hospital_Management_System\obj\Debug\Hospital_Management_System.csproj.CoreCompileInputs.cache
+D:\Module 6\Final Project\Project with Ajax\Hospital_Management_Systems\Hospital_Management_System\obj\Debug\Hospital_Management_System.csproj.CopyComplete
+D:\Module 6\Final Project\Project with Ajax\Hospital_Management_Systems\Hospital_Management_System\obj\Debug\Hospital_Management_System.dll
+D:\Module 6\Final Project\Project with Ajax\Hospital_Management_Systems\Hospital_Management_System\obj\Debug\Hospital_Management_System.pdb
+C:\Users\LAB104-10\Desktop\Final Project\Hospital_Management_Systems\Hospital_Management_System\bin\Hospital_Management_System.dll.config
+C:\Users\LAB104-10\Desktop\Final Project\Hospital_Management_Systems\Hospital_Management_System\bin\Hospital_Management_System.dll
+C:\Users\LAB104-10\Desktop\Final Project\Hospital_Management_Systems\Hospital_Management_System\bin\Hospital_Management_System.pdb
+C:\Users\LAB104-10\Desktop\Final Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\csc.exe
+C:\Users\LAB104-10\Desktop\Final Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\csc.exe.config
+C:\Users\LAB104-10\Desktop\Final Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\csc.rsp
+C:\Users\LAB104-10\Desktop\Final Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\csi.exe
+C:\Users\LAB104-10\Desktop\Final Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\csi.exe.config
+C:\Users\LAB104-10\Desktop\Final Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\csi.rsp
+C:\Users\LAB104-10\Desktop\Final Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\LAB104-10\Desktop\Final Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\LAB104-10\Desktop\Final Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\LAB104-10\Desktop\Final Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\LAB104-10\Desktop\Final Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\LAB104-10\Desktop\Final Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\LAB104-10\Desktop\Final Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\LAB104-10\Desktop\Final Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\LAB104-10\Desktop\Final Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\LAB104-10\Desktop\Final Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+C:\Users\LAB104-10\Desktop\Final Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\LAB104-10\Desktop\Final Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\LAB104-10\Desktop\Final Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.Buffers.dll
+C:\Users\LAB104-10\Desktop\Final Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\LAB104-10\Desktop\Final Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.Memory.dll
+C:\Users\LAB104-10\Desktop\Final Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\LAB104-10\Desktop\Final Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\LAB104-10\Desktop\Final Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\LAB104-10\Desktop\Final Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\LAB104-10\Desktop\Final Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\LAB104-10\Desktop\Final Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\vbc.exe
+C:\Users\LAB104-10\Desktop\Final Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\vbc.exe.config
+C:\Users\LAB104-10\Desktop\Final Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\vbc.rsp
+C:\Users\LAB104-10\Desktop\Final Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\VBCSCompiler.exe
+C:\Users\LAB104-10\Desktop\Final Project\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\LAB104-10\Desktop\Final Project\Hospital_Management_Systems\Hospital_Management_System\bin\EntityFramework.dll
+C:\Users\LAB104-10\Desktop\Final Project\Hospital_Management_Systems\Hospital_Management_System\bin\EntityFramework.SqlServer.dll
+C:\Users\LAB104-10\Desktop\Final Project\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\LAB104-10\Desktop\Final Project\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\LAB104-10\Desktop\Final Project\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\LAB104-10\Desktop\Final Project\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.Owin.dll
+C:\Users\LAB104-10\Desktop\Final Project\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\LAB104-10\Desktop\Final Project\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\LAB104-10\Desktop\Final Project\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.Owin.Security.dll
+C:\Users\LAB104-10\Desktop\Final Project\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\LAB104-10\Desktop\Final Project\Hospital_Management_Systems\Hospital_Management_System\bin\Owin.dll
+C:\Users\LAB104-10\Desktop\Final Project\Hospital_Management_Systems\Hospital_Management_System\bin\System.Buffers.dll
+C:\Users\LAB104-10\Desktop\Final Project\Hospital_Management_Systems\Hospital_Management_System\bin\System.Memory.dll
+C:\Users\LAB104-10\Desktop\Final Project\Hospital_Management_Systems\Hospital_Management_System\bin\System.Numerics.Vectors.dll
+C:\Users\LAB104-10\Desktop\Final Project\Hospital_Management_Systems\Hospital_Management_System\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\LAB104-10\Desktop\Final Project\Hospital_Management_Systems\Hospital_Management_System\bin\System.Text.Encodings.Web.dll
+C:\Users\LAB104-10\Desktop\Final Project\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Helpers.dll
+C:\Users\LAB104-10\Desktop\Final Project\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Mvc.dll
+C:\Users\LAB104-10\Desktop\Final Project\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Razor.dll
+C:\Users\LAB104-10\Desktop\Final Project\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Webpages.Deployment.dll
+C:\Users\LAB104-10\Desktop\Final Project\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Webpages.dll
+C:\Users\LAB104-10\Desktop\Final Project\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Webpages.Razor.dll
+C:\Users\LAB104-10\Desktop\Final Project\Hospital_Management_Systems\Hospital_Management_System\bin\X.PagedList.dll
+C:\Users\LAB104-10\Desktop\Final Project\Hospital_Management_Systems\Hospital_Management_System\bin\X.PagedList.Mvc.dll
+C:\Users\LAB104-10\Desktop\Final Project\Hospital_Management_Systems\Hospital_Management_System\bin\X.PagedList.Web.Common.dll
+C:\Users\LAB104-10\Desktop\Final Project\Hospital_Management_Systems\Hospital_Management_System\bin\EntityFramework.xml
+C:\Users\LAB104-10\Desktop\Final Project\Hospital_Management_Systems\Hospital_Management_System\bin\EntityFramework.SqlServer.xml
+C:\Users\LAB104-10\Desktop\Final Project\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\LAB104-10\Desktop\Final Project\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\LAB104-10\Desktop\Final Project\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\LAB104-10\Desktop\Final Project\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.Owin.xml
+C:\Users\LAB104-10\Desktop\Final Project\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\LAB104-10\Desktop\Final Project\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.Owin.Security.xml
+C:\Users\LAB104-10\Desktop\Final Project\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\LAB104-10\Desktop\Final Project\Hospital_Management_Systems\Hospital_Management_System\bin\System.Buffers.xml
+C:\Users\LAB104-10\Desktop\Final Project\Hospital_Management_Systems\Hospital_Management_System\bin\System.Memory.xml
+C:\Users\LAB104-10\Desktop\Final Project\Hospital_Management_Systems\Hospital_Management_System\bin\System.Numerics.Vectors.xml
+C:\Users\LAB104-10\Desktop\Final Project\Hospital_Management_Systems\Hospital_Management_System\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\LAB104-10\Desktop\Final Project\Hospital_Management_Systems\Hospital_Management_System\bin\System.Text.Encodings.Web.xml
+C:\Users\LAB104-10\Desktop\Final Project\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Razor.xml
+C:\Users\LAB104-10\Desktop\Final Project\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Webpages.xml
+C:\Users\LAB104-10\Desktop\Final Project\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Webpages.Deployment.xml
+C:\Users\LAB104-10\Desktop\Final Project\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Webpages.Razor.xml
+C:\Users\LAB104-10\Desktop\Final Project\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Helpers.xml
+C:\Users\LAB104-10\Desktop\Final Project\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Mvc.xml
+C:\Users\LAB104-10\Desktop\Final Project\Hospital_Management_Systems\Hospital_Management_System\obj\Debug\Hospital_Management_System.csproj.AssemblyReference.cache
+C:\Users\LAB104-10\Desktop\Final Project\Hospital_Management_Systems\Hospital_Management_System\obj\Debug\Hospital_Management_System.csproj.CoreCompileInputs.cache
+C:\Users\LAB104-10\Desktop\Final Project\Hospital_Management_Systems\Hospital_Management_System\obj\Debug\Hospital_Management_System.csproj.CopyComplete
+C:\Users\LAB104-10\Desktop\Final Project\Hospital_Management_Systems\Hospital_Management_System\obj\Debug\Hospital_Management_System.dll
+C:\Users\LAB104-10\Desktop\Final Project\Hospital_Management_Systems\Hospital_Management_System\obj\Debug\Hospital_Management_System.pdb
+C:\Users\LAB104-10\Desktop\Final Project\Hospital_Management_Systems\Hospital_Management_System\obj\Debug\Hospital_Management_System.Migrations.InitialCreate.resources
+C:\Users\LAB104-10\Desktop\Final Project\Hospital_Management_Systems\Hospital_Management_System\obj\Debug\Hospital_Management_System.csproj.GenerateResource.cache
+G:\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\Hospital_Management_System.dll.config
+G:\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\Hospital_Management_System.dll
+G:\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\Hospital_Management_System.pdb
+G:\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\csc.exe
+G:\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\csc.exe.config
+G:\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\csc.rsp
+G:\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\csi.exe
+G:\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\csi.exe.config
+G:\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\csi.rsp
+G:\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+G:\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.Managed.Core.targets
+G:\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.Buffers.dll
+G:\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.Collections.Immutable.dll
+G:\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.Memory.dll
+G:\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.Numerics.Vectors.dll
+G:\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.Reflection.Metadata.dll
+G:\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+G:\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.Threading.Tasks.Extensions.dll
+G:\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\vbc.exe
+G:\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\vbc.exe.config
+G:\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\vbc.rsp
+G:\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\VBCSCompiler.exe
+G:\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\VBCSCompiler.exe.config
+G:\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\EntityFramework.dll
+G:\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\EntityFramework.SqlServer.dll
+G:\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.AspNet.Identity.Core.dll
+G:\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.Owin.dll
+G:\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.Owin.Security.Cookies.dll
+G:\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.Owin.Security.dll
+G:\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.Web.Infrastructure.dll
+G:\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\Owin.dll
+G:\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\System.Buffers.dll
+G:\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\System.Memory.dll
+G:\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\System.Numerics.Vectors.dll
+G:\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\System.Runtime.CompilerServices.Unsafe.dll
+G:\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\System.Text.Encodings.Web.dll
+G:\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Helpers.dll
+G:\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Mvc.dll
+G:\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Razor.dll
+G:\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Webpages.Deployment.dll
+G:\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Webpages.dll
+G:\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Webpages.Razor.dll
+G:\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\X.PagedList.dll
+G:\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\X.PagedList.Mvc.dll
+G:\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\X.PagedList.Web.Common.dll
+G:\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\EntityFramework.xml
+G:\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\EntityFramework.SqlServer.xml
+G:\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.AspNet.Identity.Core.xml
+G:\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.Owin.xml
+G:\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.Owin.Security.xml
+G:\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.Owin.Security.Cookies.xml
+G:\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\System.Buffers.xml
+G:\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\System.Memory.xml
+G:\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\System.Numerics.Vectors.xml
+G:\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\System.Runtime.CompilerServices.Unsafe.xml
+G:\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\System.Text.Encodings.Web.xml
+G:\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Razor.xml
+G:\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Webpages.xml
+G:\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Webpages.Deployment.xml
+G:\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Webpages.Razor.xml
+G:\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Helpers.xml
+G:\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Mvc.xml
+G:\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\obj\Debug\Hospital_Management_System.csproj.AssemblyReference.cache
+G:\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\obj\Debug\Hospital_Management_System.csproj.CoreCompileInputs.cache
+G:\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\obj\Debug\Hospital_Management_System.csproj.CopyComplete
+G:\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\obj\Debug\Hospital_Management_System.dll
+G:\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\obj\Debug\Hospital_Management_System.pdb
+G:\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\obj\Debug\Hospital_Management_System.Migrations.InitialCreate.resources
+G:\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\obj\Debug\Hospital_Management_System.csproj.GenerateResource.cache
+C:\Users\LAB104-06\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\Hospital_Management_System.dll.config
+C:\Users\LAB104-06\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\Hospital_Management_System.dll
+C:\Users\LAB104-06\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\Hospital_Management_System.pdb
+C:\Users\LAB104-06\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\csc.exe
+C:\Users\LAB104-06\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\csc.exe.config
+C:\Users\LAB104-06\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\csc.rsp
+C:\Users\LAB104-06\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\csi.exe
+C:\Users\LAB104-06\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\csi.exe.config
+C:\Users\LAB104-06\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\csi.rsp
+C:\Users\LAB104-06\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\LAB104-06\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\LAB104-06\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\LAB104-06\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\LAB104-06\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\LAB104-06\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\LAB104-06\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\LAB104-06\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\LAB104-06\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\LAB104-06\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+C:\Users\LAB104-06\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\LAB104-06\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\LAB104-06\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.Buffers.dll
+C:\Users\LAB104-06\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\LAB104-06\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.Memory.dll
+C:\Users\LAB104-06\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\LAB104-06\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\LAB104-06\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\LAB104-06\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\LAB104-06\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\LAB104-06\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\vbc.exe
+C:\Users\LAB104-06\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\vbc.exe.config
+C:\Users\LAB104-06\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\vbc.rsp
+C:\Users\LAB104-06\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\VBCSCompiler.exe
+C:\Users\LAB104-06\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\LAB104-06\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\EntityFramework.dll
+C:\Users\LAB104-06\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\EntityFramework.SqlServer.dll
+C:\Users\LAB104-06\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\LAB104-06\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\LAB104-06\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\LAB104-06\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.Owin.dll
+C:\Users\LAB104-06\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\LAB104-06\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\LAB104-06\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.Owin.Security.dll
+C:\Users\LAB104-06\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\LAB104-06\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\Owin.dll
+C:\Users\LAB104-06\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\System.Buffers.dll
+C:\Users\LAB104-06\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\System.Memory.dll
+C:\Users\LAB104-06\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\System.Numerics.Vectors.dll
+C:\Users\LAB104-06\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\LAB104-06\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\System.Text.Encodings.Web.dll
+C:\Users\LAB104-06\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Helpers.dll
+C:\Users\LAB104-06\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Mvc.dll
+C:\Users\LAB104-06\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Razor.dll
+C:\Users\LAB104-06\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Webpages.Deployment.dll
+C:\Users\LAB104-06\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Webpages.dll
+C:\Users\LAB104-06\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Webpages.Razor.dll
+C:\Users\LAB104-06\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\X.PagedList.dll
+C:\Users\LAB104-06\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\X.PagedList.Mvc.dll
+C:\Users\LAB104-06\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\X.PagedList.Web.Common.dll
+C:\Users\LAB104-06\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\EntityFramework.xml
+C:\Users\LAB104-06\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\EntityFramework.SqlServer.xml
+C:\Users\LAB104-06\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\LAB104-06\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\LAB104-06\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\LAB104-06\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.Owin.xml
+C:\Users\LAB104-06\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\LAB104-06\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.Owin.Security.xml
+C:\Users\LAB104-06\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\LAB104-06\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\System.Buffers.xml
+C:\Users\LAB104-06\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\System.Memory.xml
+C:\Users\LAB104-06\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\System.Numerics.Vectors.xml
+C:\Users\LAB104-06\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\LAB104-06\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\System.Text.Encodings.Web.xml
+C:\Users\LAB104-06\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Razor.xml
+C:\Users\LAB104-06\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Webpages.xml
+C:\Users\LAB104-06\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Webpages.Deployment.xml
+C:\Users\LAB104-06\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Webpages.Razor.xml
+C:\Users\LAB104-06\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Helpers.xml
+C:\Users\LAB104-06\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Mvc.xml
+C:\Users\LAB104-06\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\obj\Debug\Hospital_Management_System.csproj.AssemblyReference.cache
+C:\Users\LAB104-06\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\obj\Debug\Hospital_Management_System.Migrations.InitialCreate.resources
+C:\Users\LAB104-06\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\obj\Debug\Hospital_Management_System.csproj.GenerateResource.cache
+C:\Users\LAB104-06\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\obj\Debug\Hospital_Management_System.csproj.CoreCompileInputs.cache
+C:\Users\LAB104-06\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\obj\Debug\Hospital_Management_System.csproj.CopyComplete
+C:\Users\LAB104-06\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\obj\Debug\Hospital_Management_System.dll
+C:\Users\LAB104-06\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\obj\Debug\Hospital_Management_System.pdb
+C:\Users\LAB104-10\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\Hospital_Management_System.dll.config
+C:\Users\LAB104-10\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\Hospital_Management_System.dll
+C:\Users\LAB104-10\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\Hospital_Management_System.pdb
+C:\Users\LAB104-10\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\csc.exe
+C:\Users\LAB104-10\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\csc.exe.config
+C:\Users\LAB104-10\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\csc.rsp
+C:\Users\LAB104-10\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\csi.exe
+C:\Users\LAB104-10\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\csi.exe.config
+C:\Users\LAB104-10\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\csi.rsp
+C:\Users\LAB104-10\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\LAB104-10\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\LAB104-10\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\LAB104-10\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\LAB104-10\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\LAB104-10\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\LAB104-10\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\LAB104-10\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\LAB104-10\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\LAB104-10\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+C:\Users\LAB104-10\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\LAB104-10\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\LAB104-10\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.Buffers.dll
+C:\Users\LAB104-10\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\LAB104-10\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.Memory.dll
+C:\Users\LAB104-10\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\LAB104-10\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\LAB104-10\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\LAB104-10\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\LAB104-10\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\LAB104-10\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\vbc.exe
+C:\Users\LAB104-10\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\vbc.exe.config
+C:\Users\LAB104-10\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\vbc.rsp
+C:\Users\LAB104-10\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\VBCSCompiler.exe
+C:\Users\LAB104-10\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\LAB104-10\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\EntityFramework.dll
+C:\Users\LAB104-10\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\EntityFramework.SqlServer.dll
+C:\Users\LAB104-10\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\LAB104-10\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\LAB104-10\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\LAB104-10\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.Owin.dll
+C:\Users\LAB104-10\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\LAB104-10\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\LAB104-10\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.Owin.Security.dll
+C:\Users\LAB104-10\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\LAB104-10\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\Owin.dll
+C:\Users\LAB104-10\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\System.Buffers.dll
+C:\Users\LAB104-10\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\System.Memory.dll
+C:\Users\LAB104-10\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\System.Numerics.Vectors.dll
+C:\Users\LAB104-10\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\LAB104-10\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\System.Text.Encodings.Web.dll
+C:\Users\LAB104-10\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Helpers.dll
+C:\Users\LAB104-10\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Mvc.dll
+C:\Users\LAB104-10\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Razor.dll
+C:\Users\LAB104-10\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Webpages.Deployment.dll
+C:\Users\LAB104-10\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Webpages.dll
+C:\Users\LAB104-10\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Webpages.Razor.dll
+C:\Users\LAB104-10\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\X.PagedList.dll
+C:\Users\LAB104-10\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\X.PagedList.Mvc.dll
+C:\Users\LAB104-10\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\X.PagedList.Web.Common.dll
+C:\Users\LAB104-10\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\EntityFramework.xml
+C:\Users\LAB104-10\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\EntityFramework.SqlServer.xml
+C:\Users\LAB104-10\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\LAB104-10\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\LAB104-10\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\LAB104-10\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.Owin.xml
+C:\Users\LAB104-10\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\LAB104-10\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.Owin.Security.xml
+C:\Users\LAB104-10\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\LAB104-10\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\System.Buffers.xml
+C:\Users\LAB104-10\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\System.Memory.xml
+C:\Users\LAB104-10\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\System.Numerics.Vectors.xml
+C:\Users\LAB104-10\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\LAB104-10\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\System.Text.Encodings.Web.xml
+C:\Users\LAB104-10\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Razor.xml
+C:\Users\LAB104-10\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Webpages.xml
+C:\Users\LAB104-10\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Webpages.Deployment.xml
+C:\Users\LAB104-10\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Webpages.Razor.xml
+C:\Users\LAB104-10\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Helpers.xml
+C:\Users\LAB104-10\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Mvc.xml
+C:\Users\LAB104-10\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\obj\Debug\Hospital_Management_System.csproj.AssemblyReference.cache
+C:\Users\LAB104-10\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\obj\Debug\Hospital_Management_System.Migrations.InitialCreate.resources
+C:\Users\LAB104-10\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\obj\Debug\Hospital_Management_System.csproj.GenerateResource.cache
+C:\Users\LAB104-10\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\obj\Debug\Hospital_Management_System.csproj.CoreCompileInputs.cache
+C:\Users\LAB104-10\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\obj\Debug\Hospital_Management_System.csproj.CopyComplete
+C:\Users\LAB104-10\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\obj\Debug\Hospital_Management_System.dll
+C:\Users\LAB104-10\Desktop\ProjectDb for final\Hospital_Management_Systems\Hospital_Management_System\obj\Debug\Hospital_Management_System.pdb
+G:\Hospital_Management_Systems\Hospital_Management_System\bin\Hospital_Management_System.dll.config
+G:\Hospital_Management_Systems\Hospital_Management_System\bin\Hospital_Management_System.dll
+G:\Hospital_Management_Systems\Hospital_Management_System\bin\Hospital_Management_System.pdb
+G:\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\csc.exe
+G:\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\csc.exe.config
+G:\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\csc.rsp
+G:\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\csi.exe
+G:\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\csi.exe.config
+G:\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\csi.rsp
+G:\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+G:\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.Managed.Core.targets
+G:\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.Buffers.dll
+G:\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.Collections.Immutable.dll
+G:\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.Memory.dll
+G:\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.Numerics.Vectors.dll
+G:\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.Reflection.Metadata.dll
+G:\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+G:\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.Threading.Tasks.Extensions.dll
+G:\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\vbc.exe
+G:\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\vbc.exe.config
+G:\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\vbc.rsp
+G:\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\VBCSCompiler.exe
+G:\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\VBCSCompiler.exe.config
+G:\Hospital_Management_Systems\Hospital_Management_System\bin\EntityFramework.dll
+G:\Hospital_Management_Systems\Hospital_Management_System\bin\EntityFramework.SqlServer.dll
+G:\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.AspNet.Identity.Core.dll
+G:\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.Owin.dll
+G:\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.Owin.Security.Cookies.dll
+G:\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.Owin.Security.dll
+G:\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.Web.Infrastructure.dll
+G:\Hospital_Management_Systems\Hospital_Management_System\bin\Owin.dll
+G:\Hospital_Management_Systems\Hospital_Management_System\bin\System.Buffers.dll
+G:\Hospital_Management_Systems\Hospital_Management_System\bin\System.Memory.dll
+G:\Hospital_Management_Systems\Hospital_Management_System\bin\System.Numerics.Vectors.dll
+G:\Hospital_Management_Systems\Hospital_Management_System\bin\System.Runtime.CompilerServices.Unsafe.dll
+G:\Hospital_Management_Systems\Hospital_Management_System\bin\System.Text.Encodings.Web.dll
+G:\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Helpers.dll
+G:\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Mvc.dll
+G:\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Razor.dll
+G:\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Webpages.Deployment.dll
+G:\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Webpages.dll
+G:\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Webpages.Razor.dll
+G:\Hospital_Management_Systems\Hospital_Management_System\bin\X.PagedList.dll
+G:\Hospital_Management_Systems\Hospital_Management_System\bin\X.PagedList.Mvc.dll
+G:\Hospital_Management_Systems\Hospital_Management_System\bin\X.PagedList.Web.Common.dll
+G:\Hospital_Management_Systems\Hospital_Management_System\bin\EntityFramework.xml
+G:\Hospital_Management_Systems\Hospital_Management_System\bin\EntityFramework.SqlServer.xml
+G:\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.AspNet.Identity.Core.xml
+G:\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.Owin.xml
+G:\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.Owin.Security.xml
+G:\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.Owin.Security.Cookies.xml
+G:\Hospital_Management_Systems\Hospital_Management_System\bin\System.Buffers.xml
+G:\Hospital_Management_Systems\Hospital_Management_System\bin\System.Memory.xml
+G:\Hospital_Management_Systems\Hospital_Management_System\bin\System.Numerics.Vectors.xml
+G:\Hospital_Management_Systems\Hospital_Management_System\bin\System.Runtime.CompilerServices.Unsafe.xml
+G:\Hospital_Management_Systems\Hospital_Management_System\bin\System.Text.Encodings.Web.xml
+G:\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Razor.xml
+G:\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Webpages.xml
+G:\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Webpages.Deployment.xml
+G:\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Webpages.Razor.xml
+G:\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Helpers.xml
+G:\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Mvc.xml
+G:\Hospital_Management_Systems\Hospital_Management_System\obj\Debug\Hospital_Management_System.csproj.AssemblyReference.cache
+G:\Hospital_Management_Systems\Hospital_Management_System\obj\Debug\Hospital_Management_System.Migrations.InitialCreate.resources
+G:\Hospital_Management_Systems\Hospital_Management_System\obj\Debug\Hospital_Management_System.csproj.GenerateResource.cache
+G:\Hospital_Management_Systems\Hospital_Management_System\obj\Debug\Hospital_Management_System.csproj.CoreCompileInputs.cache
+G:\Hospital_Management_Systems\Hospital_Management_System\obj\Debug\Hospital_Management_System.csproj.CopyComplete
+G:\Hospital_Management_Systems\Hospital_Management_System\obj\Debug\Hospital_Management_System.dll
+G:\Hospital_Management_Systems\Hospital_Management_System\obj\Debug\Hospital_Management_System.pdb
+E:\GitHub_Projects\Hospital_Management_Systems\Hospital_Management_System\bin\Hospital_Management_System.dll.config
+E:\GitHub_Projects\Hospital_Management_Systems\Hospital_Management_System\bin\Hospital_Management_System.dll
+E:\GitHub_Projects\Hospital_Management_Systems\Hospital_Management_System\bin\Hospital_Management_System.pdb
+E:\GitHub_Projects\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\csc.exe
+E:\GitHub_Projects\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\csc.exe.config
+E:\GitHub_Projects\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\csc.rsp
+E:\GitHub_Projects\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\csi.exe
+E:\GitHub_Projects\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\csi.exe.config
+E:\GitHub_Projects\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\csi.rsp
+E:\GitHub_Projects\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\GitHub_Projects\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\GitHub_Projects\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\GitHub_Projects\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\GitHub_Projects\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\GitHub_Projects\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\GitHub_Projects\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\GitHub_Projects\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\GitHub_Projects\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\GitHub_Projects\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+E:\GitHub_Projects\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.Managed.Core.targets
+E:\GitHub_Projects\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\GitHub_Projects\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.Buffers.dll
+E:\GitHub_Projects\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.Collections.Immutable.dll
+E:\GitHub_Projects\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.Memory.dll
+E:\GitHub_Projects\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.Numerics.Vectors.dll
+E:\GitHub_Projects\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.Reflection.Metadata.dll
+E:\GitHub_Projects\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+E:\GitHub_Projects\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\GitHub_Projects\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\GitHub_Projects\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\vbc.exe
+E:\GitHub_Projects\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\vbc.exe.config
+E:\GitHub_Projects\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\vbc.rsp
+E:\GitHub_Projects\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\VBCSCompiler.exe
+E:\GitHub_Projects\Hospital_Management_Systems\Hospital_Management_System\bin\roslyn\VBCSCompiler.exe.config
+E:\GitHub_Projects\Hospital_Management_Systems\Hospital_Management_System\bin\EntityFramework.dll
+E:\GitHub_Projects\Hospital_Management_Systems\Hospital_Management_System\bin\EntityFramework.SqlServer.dll
+E:\GitHub_Projects\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.AspNet.Identity.Core.dll
+E:\GitHub_Projects\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\GitHub_Projects\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\GitHub_Projects\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.Owin.dll
+E:\GitHub_Projects\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\GitHub_Projects\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.Owin.Security.Cookies.dll
+E:\GitHub_Projects\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.Owin.Security.dll
+E:\GitHub_Projects\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.Web.Infrastructure.dll
+E:\GitHub_Projects\Hospital_Management_Systems\Hospital_Management_System\bin\Owin.dll
+E:\GitHub_Projects\Hospital_Management_Systems\Hospital_Management_System\bin\System.Buffers.dll
+E:\GitHub_Projects\Hospital_Management_Systems\Hospital_Management_System\bin\System.Memory.dll
+E:\GitHub_Projects\Hospital_Management_Systems\Hospital_Management_System\bin\System.Numerics.Vectors.dll
+E:\GitHub_Projects\Hospital_Management_Systems\Hospital_Management_System\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\GitHub_Projects\Hospital_Management_Systems\Hospital_Management_System\bin\System.Text.Encodings.Web.dll
+E:\GitHub_Projects\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Helpers.dll
+E:\GitHub_Projects\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Mvc.dll
+E:\GitHub_Projects\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Razor.dll
+E:\GitHub_Projects\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Webpages.Deployment.dll
+E:\GitHub_Projects\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Webpages.dll
+E:\GitHub_Projects\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Webpages.Razor.dll
+E:\GitHub_Projects\Hospital_Management_Systems\Hospital_Management_System\bin\X.PagedList.dll
+E:\GitHub_Projects\Hospital_Management_Systems\Hospital_Management_System\bin\X.PagedList.Mvc.dll
+E:\GitHub_Projects\Hospital_Management_Systems\Hospital_Management_System\bin\X.PagedList.Web.Common.dll
+E:\GitHub_Projects\Hospital_Management_Systems\Hospital_Management_System\bin\EntityFramework.xml
+E:\GitHub_Projects\Hospital_Management_Systems\Hospital_Management_System\bin\EntityFramework.SqlServer.xml
+E:\GitHub_Projects\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.AspNet.Identity.Core.xml
+E:\GitHub_Projects\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\GitHub_Projects\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\GitHub_Projects\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.Owin.xml
+E:\GitHub_Projects\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\GitHub_Projects\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.Owin.Security.xml
+E:\GitHub_Projects\Hospital_Management_Systems\Hospital_Management_System\bin\Microsoft.Owin.Security.Cookies.xml
+E:\GitHub_Projects\Hospital_Management_Systems\Hospital_Management_System\bin\System.Buffers.xml
+E:\GitHub_Projects\Hospital_Management_Systems\Hospital_Management_System\bin\System.Memory.xml
+E:\GitHub_Projects\Hospital_Management_Systems\Hospital_Management_System\bin\System.Numerics.Vectors.xml
+E:\GitHub_Projects\Hospital_Management_Systems\Hospital_Management_System\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\GitHub_Projects\Hospital_Management_Systems\Hospital_Management_System\bin\System.Text.Encodings.Web.xml
+E:\GitHub_Projects\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Razor.xml
+E:\GitHub_Projects\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Webpages.xml
+E:\GitHub_Projects\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Webpages.Deployment.xml
+E:\GitHub_Projects\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Webpages.Razor.xml
+E:\GitHub_Projects\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Helpers.xml
+E:\GitHub_Projects\Hospital_Management_Systems\Hospital_Management_System\bin\System.Web.Mvc.xml
+E:\GitHub_Projects\Hospital_Management_Systems\Hospital_Management_System\obj\Debug\Hospital_Management_System.csproj.AssemblyReference.cache
+E:\GitHub_Projects\Hospital_Management_Systems\Hospital_Management_System\obj\Debug\Hospital_Management_System.Migrations.InitialCreate.resources
+E:\GitHub_Projects\Hospital_Management_Systems\Hospital_Management_System\obj\Debug\Hospital_Management_System.csproj.GenerateResource.cache
+E:\GitHub_Projects\Hospital_Management_Systems\Hospital_Management_System\obj\Debug\Hospital_Management_System.csproj.CoreCompileInputs.cache
+E:\GitHub_Projects\Hospital_Management_Systems\Hospital_Management_System\obj\Debug\Hospital_Management_System.csproj.CopyComplete
+E:\GitHub_Projects\Hospital_Management_Systems\Hospital_Management_System\obj\Debug\Hospital_Management_System.dll
+E:\GitHub_Projects\Hospital_Management_Systems\Hospital_Management_System\obj\Debug\Hospital_Management_System.pdb
